@@ -4,7 +4,7 @@ const Redis = require('ioredis')
 const redisConfig = {
   host: 'localhost',
   port: 6379,
-  password: '',
+  password: 'foobared',
   db: 0
 }
 
